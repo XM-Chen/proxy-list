@@ -1,0 +1,1825 @@
+proxies:
+  - name: "103.50.33.21:8081"
+    type: http
+    server: 103.50.33.21
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHMgmfMyIWDh-m8WjrvhEIgoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "5.42.206.146:8081"
+    type: http
+    server: 5.42.206.146
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEE_b_Gmqtp1on4XnGJ_XbdoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "190.103.177.162:8081"
+    type: http
+    server: 190.103.177.162
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEcfdLhiYmhu5JOtqbWhBXFxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "38.165.230.194:8081"
+    type: http
+    server: 38.165.230.194
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEffA9-p35bQ6Bp9pruRAMSoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "38.165.230.210:8081"
+    type: http
+    server: 38.165.230.210
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGPzeW0KI5uHIcLoRhdezuioXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.241.122:8081"
+    type: http
+    server: 146.70.241.122
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE4v7QDStD77xUUKvfJfPNVoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "103.50.33.107:8081"
+    type: http
+    server: 103.50.33.107
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH33cf-_XAzAslJsv6FkhT0oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "103.50.33.200:8081"
+    type: http
+    server: 103.50.33.200
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGlnC2tmJg2j1s52N490l45oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "38.165.230.218:8081"
+    type: http
+    server: 38.165.230.218
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHaL6GpZeKiQfkD5Ry99kRnoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "103.50.33.186:8081"
+    type: http
+    server: 103.50.33.186
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFI-a0AF6lWxxNIy37pWoVCoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.81.130:8081"
+    type: http
+    server: 146.70.81.130
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH0_ZT7U_BjJmtDHbShaN9RoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.28.2:8081"
+    type: http
+    server: 146.70.28.2
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHpykU48kDD0I9xy2xH1UAwoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "144.48.39.114:8081"
+    type: http
+    server: 144.48.39.114
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFu2RPgtMZHusIzrkvlsr0BoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "38.165.230.130:8081"
+    type: http
+    server: 38.165.230.130
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFofgcfBqTwXQGi-6zP21jCxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "130.195.222.54:8081"
+    type: http
+    server: 130.195.222.54
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyExEpTHd9UClfJqri1ZE9mHoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.146.22:8081"
+    type: http
+    server: 146.70.146.22
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHCan2-EmCQgjOYLCvi4MIXoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.210.219.242:8081"
+    type: http
+    server: 185.210.219.242
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFkz5uBY6fljlNeit4mKtEQoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "144.48.37.141:8081"
+    type: http
+    server: 144.48.37.141
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEwJ8XwKCD5ZKuYiBnN_sFOxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "144.48.38.146:8081"
+    type: http
+    server: 144.48.38.146
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEbHF23I2mvck_TEKq8IODExsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "103.108.229.143:8081"
+    type: http
+    server: 103.108.229.143
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEKe2nDZZNSdx0cKJ3zcVrtxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "144.48.37.111:8081"
+    type: http
+    server: 144.48.37.111
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHpsM025Av8VaIsv5mvavZaoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "45.125.247.13:8081"
+    type: http
+    server: 45.125.247.13
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHQ05GMyB1e2tyZmSkwjAPFoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "139.99.148.18:8081"
+    type: http
+    server: 139.99.148.18
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHaKn8De28NetfhuNldJYB-oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "182.54.232.23:8081"
+    type: http
+    server: 182.54.232.23
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH_hNDs_hJjzZsT-9aa8zJKoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.232.21.18:8081"
+    type: http
+    server: 185.232.21.18
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH4vRi1-ZWBStJR7vvDMGppoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "144.48.38.35:8081"
+    type: http
+    server: 144.48.38.35
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHL26zzqoqOOLmHYOKVPitioXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.176.222:8081"
+    type: http
+    server: 146.70.176.222
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyESpQ82Ir2unF_V0tx4berUoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "139.99.209.67:8081"
+    type: http
+    server: 139.99.209.67
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEpRhh0zuq7w5i3ppJ5vrTroXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "139.99.148.8:8081"
+    type: http
+    server: 139.99.148.8
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFCDeBq_FE2SaXQQAxDfo3DoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.53.226:8081"
+    type: http
+    server: 146.70.53.226
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH67fnCrBfM3UHrWQHBr812oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "177.54.146.84:8081"
+    type: http
+    server: 177.54.146.84
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH6ILn-gqVtZ9B9PvJ28dZPoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "193.107.70.113:8081"
+    type: http
+    server: 193.107.70.113
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHfhMSbmL2C1M6uXFKUFBtOoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "190.186.42.50:8081"
+    type: http
+    server: 190.186.42.50
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFoSSD8QJOGd4GXMGBDuIrioXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "45.128.133.202:8081"
+    type: http
+    server: 45.128.133.202
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEnEwfT5BQCcWMV6_4l8Gv4oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "189.1.173.19:8081"
+    type: http
+    server: 189.1.173.19
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHkPqH7G56gN0ZAoytF7PtGoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "177.54.147.116:8081"
+    type: http
+    server: 177.54.147.116
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGjOPJveUcosr7UqR6nWmxWoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "177.54.157.16:8081"
+    type: http
+    server: 177.54.157.16
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEc63eqRX9HNgRrmZtPAIX7oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "140.174.187.19:8081"
+    type: http
+    server: 140.174.187.19
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHI6cwliWLwHICYcF5-8N7CoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "140.174.187.15:8081"
+    type: http
+    server: 140.174.187.15
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHuoPyn8994XHX5MPJtZVnpoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "37.120.152.186:8081"
+    type: http
+    server: 37.120.152.186
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyF-w7QBAKBWOxN_XDuGtv2woXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.104.186.78:8081"
+    type: http
+    server: 185.104.186.78
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHAhmi9kM5i2umTFOt-o4w_oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "140.174.187.13:8081"
+    type: http
+    server: 140.174.187.13
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEu0dnK4WONziC246w_w5zEoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "178.172.217.13:8081"
+    type: http
+    server: 178.172.217.13
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHImm53rASnftGAhlnOk3kGoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "198.57.27.37:8081"
+    type: http
+    server: 198.57.27.37
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFmTYzMLDmismbpi83pTN8moXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "140.174.187.17:8081"
+    type: http
+    server: 140.174.187.17
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHsZlmV1eh3nZHb_3bU0OaQoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "173.209.55.186:8081"
+    type: http
+    server: 173.209.55.186
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGhm0XKLh_--FhMQTz6VCzgxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "173.209.63.146:8081"
+    type: http
+    server: 173.209.63.146
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE0l-YiVeqChauw5ro-oPApxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "67.43.236.2:8081"
+    type: http
+    server: 67.43.236.2
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHxvoNsb9VMclU1Vuqq3QWuxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "173.209.48.162:8081"
+    type: http
+    server: 173.209.48.162
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFttCzrZ8uDN9QR40hZhO9ZoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "178.172.217.19:8081"
+    type: http
+    server: 178.172.217.19
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGClOEv9KpjRYbkR5Hz4g1zoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "173.209.51.250:8081"
+    type: http
+    server: 173.209.51.250
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE9b3OsuGq1x_PbyhVdSTzxoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "67.43.236.226:8081"
+    type: http
+    server: 67.43.236.226
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyG2Kx2_QuqEYgw2ueo0_40xxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "192.99.5.161:8081"
+    type: http
+    server: 192.99.5.161
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFcah6fwrhUnz6Iq7Qe1uuYoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "104.245.146.82:8081"
+    type: http
+    server: 104.245.146.82
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHSxdYGnkWFs19SstKHrHeIoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "173.209.49.50:8081"
+    type: http
+    server: 173.209.49.50
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFohphmDXF8qm61RejyCl2yoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "179.43.172.58:8081"
+    type: http
+    server: 179.43.172.58
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEK1u_ZiBtpVfRKeiVa51wToXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.135.14:8081"
+    type: http
+    server: 146.70.135.14
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEAeL02zTFrISZBQM_T8HRYoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "135.84.180.228:8081"
+    type: http
+    server: 135.84.180.228
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGU8XRZGNphwW1R93pAPpfWoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "102.220.17.118:8081"
+    type: http
+    server: 102.220.17.118
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEZiUNAvqmcXgoztc2kCvCHoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "43.252.167.96:8081"
+    type: http
+    server: 43.252.167.96
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE5NYMc6sIEUZqUMil-e2znoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "43.252.167.94:8081"
+    type: http
+    server: 43.252.167.94
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHsoXxHst9k14iHM636HA_moXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "45.250.252.93:8081"
+    type: http
+    server: 45.250.252.93
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFbW-AYEBSianpZ7fBiel88oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.183.104.146:8081"
+    type: http
+    server: 185.183.104.146
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGti294yDE8ey5DtCzMjvwnoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "103.219.169.75:8081"
+    type: http
+    server: 103.219.169.75
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHv6vEE85fywHRBgGiBW4k0oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "66.203.113.32:8081"
+    type: http
+    server: 66.203.113.32
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEE9jNOG2TpvO33TFvXjKr4oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "200.63.100.12:8081"
+    type: http
+    server: 200.63.100.12
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEbEGusSCEVSlWppPV74enroXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "200.122.181.11:8081"
+    type: http
+    server: 200.122.181.11
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGraySm0AiMKVs4--NVrq5voXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.191.206.100:8081"
+    type: http
+    server: 185.191.206.100
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHvpHSmhXiV48PR6nz4bc3zoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "138.59.135.94:8081"
+    type: http
+    server: 138.59.135.94
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHQlD5U_vBdOYWelvok8ijUoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "89.163.214.214:8081"
+    type: http
+    server: 89.163.214.214
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEiSVES5mKK42frKd0BZQNCxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "157.97.132.199:8081"
+    type: http
+    server: 157.97.132.199
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFdwzBHgUxdgQRAWfhOXNNSoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "217.138.220.50:8081"
+    type: http
+    server: 217.138.220.50
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEeoQv0s2xEy8qnjHdQHwpRoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "138.121.203.146:8081"
+    type: http
+    server: 138.121.203.146
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFNnDylMyQ5RiwTXOPdcY_XoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "217.138.220.226:8081"
+    type: http
+    server: 217.138.220.226
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEH_hNuAsDzUp25xmgRbkQsoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "193.108.116.211:8081"
+    type: http
+    server: 193.108.116.211
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGorjBoMgToJUNIsnuhYIB5xsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "23.160.72.213:8081"
+    type: http
+    server: 23.160.72.213
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGEZLHoRnIRA9EnahttRUyPxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "51.38.117.233:8081"
+    type: http
+    server: 51.38.117.233
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEnJY5nt_G_OGcs3uZX9JC-xsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "23.160.72.42:8081"
+    type: http
+    server: 23.160.72.42
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHihxR2WCgEyysxd5MvmT4Sxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "217.138.220.94:8081"
+    type: http
+    server: 217.138.220.94
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHMNezg0OzonsxgtYn2ylKyoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "193.108.116.228:8081"
+    type: http
+    server: 193.108.116.228
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFalIB85ygH3nYj57AeCGQHxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "23.160.72.57:8081"
+    type: http
+    server: 23.160.72.57
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEayA3_90Fqh_fJbjEh9X5Oxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "23.160.72.203:8081"
+    type: http
+    server: 23.160.72.203
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyESKwSq7Aryl4p8rCTP-8Gkxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "193.108.116.244:8081"
+    type: http
+    server: 193.108.116.244
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGdhovO7YkR393pmo6S8d6Xxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "213.202.254.246:8081"
+    type: http
+    server: 213.202.254.246
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGhY5ixGFUvblGqO--ydHOqoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "85.114.138.26:8081"
+    type: http
+    server: 85.114.138.26
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGn5IeZzXnYm4TikAxgvlrCxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "146.70.42.202:8081"
+    type: http
+    server: 146.70.42.202
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFWs_eEPximfjJGVhk7tqIJoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "82.103.131.250:8081"
+    type: http
+    server: 82.103.131.250
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyG26ZhHpfzYV4EtdvpwQIEuoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "51.68.176.243:8081"
+    type: http
+    server: 51.68.176.243
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFwFAVBrtxGLJPyzNDtANJfxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "89.45.7.250:8081"
+    type: http
+    server: 89.45.7.250
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH0r7HNSARHjV6kMZrEw0iLoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "197.140.142.46:8081"
+    type: http
+    server: 197.140.142.46
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGBpG7sUZs9CiTtGOd6OSMRoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.212.169.245:8081"
+    type: http
+    server: 185.212.169.245
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyG2q0lbABOoZymHmLtSTNg9oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "193.36.116.234:8081"
+    type: http
+    server: 193.36.116.234
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyG32FcPPvkKPvoqxZOuWZ46oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "197.140.142.120:8081"
+    type: http
+    server: 197.140.142.120
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHj_lcHlRo8zMnV6OCpnvBJoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "46.22.223.178:8081"
+    type: http
+    server: 46.22.223.178
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGGg9lTTgV_CQIpQ7aHUsosoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "179.49.5.119:8081"
+    type: http
+    server: 179.49.5.119
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFHiN92RovSzBu-3UGuay7XoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "45.128.39.170:8081"
+    type: http
+    server: 45.128.39.170
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH-yrRX_32HW1_c9Zw6IrvJoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "140.174.184.53:8081"
+    type: http
+    server: 140.174.184.53
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHwvemrTgcOGOt5bmnIPuW_oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "95.153.31.102:8081"
+    type: http
+    server: 95.153.31.102
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE1exgFfxj2WbW_CaiHDGvKoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "188.214.122.162:8081"
+    type: http
+    server: 188.214.122.162
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGAs988IMb3-C5f5hbFrzNmoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "188.164.196.6:8081"
+    type: http
+    server: 188.164.196.6
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFMZv0uF5kmv34Xwb4LjuZPoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "188.214.122.18:8081"
+    type: http
+    server: 188.214.122.18
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHO3Fdw-dWFRtRaVUP4KUTAoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "95.153.32.34:8081"
+    type: http
+    server: 95.153.32.34
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyG1uOggi_KahbYH8VeQuOfdoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "45.152.183.146:8081"
+    type: http
+    server: 45.152.183.146
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHVPaoYVmEth2O7c3ZNES_RoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "108.181.121.42:8081"
+    type: http
+    server: 108.181.121.42
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyExJAf0h-xljBzyx__M8evooXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "147.135.130.224:8081"
+    type: http
+    server: 147.135.130.224
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFMUHG00wRXaOKFhYraCboaxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "89.38.226.94:8081"
+    type: http
+    server: 89.38.226.94
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyELm47j5lZDM3pLOLXeKjoYoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "51.159.220.137:8081"
+    type: http
+    server: 51.159.220.137
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGxpTLZPchWWzWYSvFrKmTCoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "83.143.242.74:8081"
+    type: http
+    server: 83.143.242.74
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGol8C2m0OUk0enrSo92UUnoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "108.181.70.43:8081"
+    type: http
+    server: 108.181.70.43
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEjgklhlGuC7hENwXS6b7DVoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "51.158.54.41:8081"
+    type: http
+    server: 51.158.54.41
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFWrqYIsjI3XKMJ2iM2qkK5xsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "51.159.194.79:8081"
+    type: http
+    server: 51.159.194.79
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE308fwodsnhoUuwNomGZ76xsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "51.159.97.197:8081"
+    type: http
+    server: 51.159.97.197
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHkvldWGEozNsHbTSGPnz8zxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "51.159.213.92:8081"
+    type: http
+    server: 51.159.213.92
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHqXVojRLkAlFGZIIY8FNFpxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "194.34.134.21:8081"
+    type: http
+    server: 194.34.134.21
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGV9bYa9cL1QrX5oYtYP-8foXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "139.64.167.194:8081"
+    type: http
+    server: 139.64.167.194
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHssinhPkxOB1vUAiLINvSSxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "51.159.211.164:8081"
+    type: http
+    server: 51.159.211.164
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH-itSXFev4kQXIomvCubJrxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "163.172.54.211:8081"
+    type: http
+    server: 163.172.54.211
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEtLUTSY1G6-AH34FBwZk1txsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "51.91.106.58:8081"
+    type: http
+    server: 51.91.106.58
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGFDTYmFkYn2N_YftUJCBZjxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "87.119.195.251:8081"
+    type: http
+    server: 87.119.195.251
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE-7kCMrBfCF5lihYhNhAQexsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "37.187.194.214:8081"
+    type: http
+    server: 37.187.194.214
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGjz1O9U7xbWXzvfKl5CSHrxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "139.64.167.210:8081"
+    type: http
+    server: 139.64.167.210
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEJ9VICrCkvkuysUaWf7-J2xsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "79.137.101.250:8081"
+    type: http
+    server: 79.137.101.250
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFrW8RVE_tg7h1wYOdiUsN3xsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "163.172.54.132:8081"
+    type: http
+    server: 163.172.54.132
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHnQcOyLhHhegx4G9lgAZD6xsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "51.158.62.74:8081"
+    type: http
+    server: 51.158.62.74
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFyCwJFc_WI1CFTsNrhm-ZboXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.245.80.156:8081"
+    type: http
+    server: 185.245.80.156
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHeJw_RU4DIe-Eztz2iYh71oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "51.89.173.123:8081"
+    type: http
+    server: 51.89.173.123
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHlX7ugb2v3lX__lgcfYqy0xsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "62.210.211.131:8081"
+    type: http
+    server: 62.210.211.131
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE3S-n0YJSWBKPq6WRyt0ILoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "51.158.62.224:8081"
+    type: http
+    server: 51.158.62.224
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGyORUbYwctaZQpMQ9tEUj0oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "163.172.33.17:8081"
+    type: http
+    server: 163.172.33.17
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFs_PyA29Lyemmwv7l8G-dwoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "51.159.194.50:8081"
+    type: http
+    server: 51.159.194.50
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyENonhFx1l385WDTsCmanf8oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "51.158.62.102:8081"
+    type: http
+    server: 51.158.62.102
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE7mYfpE4Q0HHSNUbvFjsDIoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "188.241.83.138:8081"
+    type: http
+    server: 188.241.83.138
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH1KEzTqcBI8Ul0RpxSqrTloXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.145.201.31:8081"
+    type: http
+    server: 185.145.201.31
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHuoN4MQT0jIgaZl2rtiD4_xsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "185.174.110.2:8081"
+    type: http
+    server: 185.174.110.2
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFdZINuziRSx4LBOEJnATrqoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "51.89.153.211:8081"
+    type: http
+    server: 51.89.153.211
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHO9WWCSvDo86Jt85QBWb2Qxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "38.114.120.157:8081"
+    type: http
+    server: 38.114.120.157
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGJzbUmvqoP1Y1aJWqMYugzxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "139.28.176.106:8081"
+    type: http
+    server: 139.28.176.106
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGKOLHX52qU73tvQMfKyaGjoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "172.99.190.183:8081"
+    type: http
+    server: 172.99.190.183
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH1qZR8q79sQ7EmtHC9Pp51oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "78.129.229.29:8081"
+    type: http
+    server: 78.129.229.29
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHY7If_mieEB-Sd7mCwxxrqxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "5.180.211.94:8081"
+    type: http
+    server: 5.180.211.94
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGzHkgRMHNJj1b90cWeD3yooXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "172.99.190.215:8081"
+    type: http
+    server: 172.99.190.215
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEOpa3lkS0mNIzYSpLHccjVoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "212.84.160.58:8081"
+    type: http
+    server: 212.84.160.58
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGIcA5zrCSchgv3RQFftDCsoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "93.174.121.131:8081"
+    type: http
+    server: 93.174.121.131
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEf8OlgtKGwuIDUzJ8k1PSWoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "188.93.91.2:8081"
+    type: http
+    server: 188.93.91.2
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGxLtqwms_pqDA_dLOjHH-KoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "145.239.6.2:8081"
+    type: http
+    server: 145.239.6.2
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyET1k2KOxh-_g2zgUcQ6PhRoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "188.93.90.66:8081"
+    type: http
+    server: 188.93.90.66
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHANLefqpp07o3wjmweNza9oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "88.150.230.5:8081"
+    type: http
+    server: 88.150.230.5
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFHma7i1P87RqWTq0owxzpGoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "95.129.46.100:8081"
+    type: http
+    server: 95.129.46.100
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHPgFmrlmI3Ec0C5I9tWzvNoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "169.150.222.197:8081"
+    type: http
+    server: 169.150.222.197
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGStNXIP53bOdA6Cazy0hSfoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "190.92.9.46:8081"
+    type: http
+    server: 190.92.9.46
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH4N6o3-SFf3qosrPgi349AoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "43.252.166.214:8081"
+    type: http
+    server: 43.252.166.214
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFwTIOYa--1oA4Zl8bFjzJJoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "178.218.162.117:8081"
+    type: http
+    server: 178.218.162.117
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFIjlX1PYnngAJ_kJxlWRfAoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "45.64.98.114:8081"
+    type: http
+    server: 45.64.98.114
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH97eoGlvUlM3D5HhgYC3T4oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "91.219.236.190:8081"
+    type: http
+    server: 91.219.236.190
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE-0iRVVT1RSnvFi4RrZRZAoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.104.187.130:8081"
+    type: http
+    server: 185.104.187.130
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFkc-PccluBQd3tF4IMK5pWoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "170.80.111.119:8081"
+    type: http
+    server: 170.80.111.119
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGdnfXfnG9PBvYkMie4Xd5goXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "178.218.162.114:8081"
+    type: http
+    server: 178.218.162.114
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGgTzfOEyuXS20W7rrLjVWYoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.104.187.234:8081"
+    type: http
+    server: 185.104.187.234
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEfY1zhc4vyXzNDNzN2OK3voXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "202.162.204.223:8081"
+    type: http
+    server: 202.162.204.223
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHIyc27ZqkpE8qS9ZqUkZ7eoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "182.54.236.194:8081"
+    type: http
+    server: 182.54.236.194
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHPVnh45D_03OhMemvJ8c8ioXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.252.222.170:8081"
+    type: http
+    server: 185.252.222.170
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFQhQ_6Cr176IWIeaPtYDeIoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "148.113.0.105:8081"
+    type: http
+    server: 148.113.0.105
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHjNKP3-qkvGITW_ekzVzgKoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.253.73.216:8081"
+    type: http
+    server: 185.253.73.216
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHne_wAU8QhXZ2BsCw5WmFQoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "148.113.8.93:8081"
+    type: http
+    server: 148.113.8.93
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEAS7vY0K09TU6wUFyW-_bPoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "202.162.204.214:8081"
+    type: http
+    server: 202.162.204.214
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGYJoapraf7FZI2i1f20fgioXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "188.241.178.86:8081"
+    type: http
+    server: 188.241.178.86
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFviyTjvB_f97AZ8bx79d5soXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "182.54.236.193:8081"
+    type: http
+    server: 182.54.236.193
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH2W1LMrm4RMcvUB9dmJaKHoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "37.235.49.103:8081"
+    type: http
+    server: 37.235.49.103
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFLxcPqfZ9BDFsRRIIIEXb_oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "148.113.47.86:8081"
+    type: http
+    server: 148.113.47.86
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGYze36FnvfgjxlNCwYBPInoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "148.113.0.104:8081"
+    type: http
+    server: 148.113.0.104
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFWi4MIehg378Twf0fCLvmFoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "37.235.49.61:8081"
+    type: http
+    server: 37.235.49.61
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGG3qmjjaqmGZS0qJT2Z1I_oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "91.193.5.182:8081"
+    type: http
+    server: 91.193.5.182
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGufZJCFb41V5Z_yWdRt-HZoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "37.120.135.218:8081"
+    type: http
+    server: 37.120.135.218
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHxfR8Z42vy1YwmF-eVAxwxoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "95.141.37.244:8081"
+    type: http
+    server: 95.141.37.244
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE6ECtiGshsb4_nfoS0fW1XoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "82.212.77.242:8081"
+    type: http
+    server: 82.212.77.242
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyF0s2sF7ZRMeC460cDZ-tNnoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "82.212.103.6:8081"
+    type: http
+    server: 82.212.103.6
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFljYDFfv_BIGhF6ko50eruoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.213.21.111:8081"
+    type: http
+    server: 185.213.21.111
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyErcmFMaNOCl0Pmjj2-h1KhoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "158.58.173.73:8081"
+    type: http
+    server: 158.58.173.73
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHufp_6m7tPtHYDpG8MRfG5oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "148.113.47.56:8081"
+    type: http
+    server: 148.113.47.56
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGgWjHxDVl1yC2fyhiVyDE_oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "103.108.230.52:8081"
+    type: http
+    server: 103.108.230.52
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGG3qETsIWw2-qmgucMGW0KoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "82.212.77.244:8081"
+    type: http
+    server: 82.212.77.244
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFBgxFckEHMzBlgnunlbCSboXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "103.108.230.31:8081"
+    type: http
+    server: 103.108.230.31
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHG1M2t6ItSJ13Fyi6RjXy_oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "103.108.230.50:8081"
+    type: http
+    server: 103.108.230.50
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH7empWCjy3_sI62h4Uw9NIoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "103.108.230.51:8081"
+    type: http
+    server: 103.108.230.51
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEJNt_Gwgx-UPEukrPKHDItoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "91.213.233.176:8081"
+    type: http
+    server: 91.213.233.176
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHydw8bO2d_cC-hlpttfGXtoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "180.149.230.169:8081"
+    type: http
+    server: 180.149.230.169
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFlFRKsCl4P2GTuaCfuJ7o0oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "91.213.233.111:8081"
+    type: http
+    server: 91.213.233.111
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEZtoI_7ZZijAGVbpkh4n3woXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "61.255.174.11:8081"
+    type: http
+    server: 61.255.174.11
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGX5LLEaMH-zIv3RaM5WRC0oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "5.180.44.194:8081"
+    type: http
+    server: 5.180.44.194
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEOM56krO_vrJ7Al0SLHNj7oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "102.68.86.97:8081"
+    type: http
+    server: 102.68.86.97
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEF4Msp1fEj7KaNUdnFrc_KoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "23.81.44.10:8081"
+    type: http
+    server: 23.81.44.10
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGgmPIYnMeywChysN1EsrWpoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "23.109.136.82:8081"
+    type: http
+    server: 23.109.136.82
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHqHL1F46k3nNfiPmsUVuUUoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "180.149.230.241:8081"
+    type: http
+    server: 180.149.230.241
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGTL9LzP_GEDW7rUyTNYqqOoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.120.77.104:8081"
+    type: http
+    server: 185.120.77.104
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyECVoMDDH9CG0khBGBWKGqioXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "85.206.170.244:8081"
+    type: http
+    server: 85.206.170.244
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFcUnts8dtLaDicsCUq-t7HoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "23.109.137.14:8081"
+    type: http
+    server: 23.109.137.14
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEPQqsMh-eFxSQ3Lw0jOY3xoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.64.104.88:8081"
+    type: http
+    server: 185.64.104.88
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFY5uBxQpK_L8LsPW-HFYBPoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "79.110.55.34:8081"
+    type: http
+    server: 79.110.55.34
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEXxw0MUdQ-ArVbamaeLgOaoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.64.104.96:8081"
+    type: http
+    server: 185.64.104.96
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGZxVQn4pJexhjmMHe_Z1B6oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "23.109.136.54:8081"
+    type: http
+    server: 23.109.136.54
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHVGQEbWJ3eQM_Y3N_FXcaBoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "23.109.136.154:8081"
+    type: http
+    server: 23.109.136.154
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFLOT1m-HAvAze5MmT2GL8loXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "84.38.134.139:8081"
+    type: http
+    server: 84.38.134.139
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEVQ1DAMVlZxxvmEDyqFurtoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "154.70.207.146:8081"
+    type: http
+    server: 154.70.207.146
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGkYf3_-Hq9lBSsXLV4ByJToXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "43.231.113.84:8081"
+    type: http
+    server: 43.231.113.84
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFxvpw8Sn-jpN8mXU_edAzyoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "43.231.114.178:8081"
+    type: http
+    server: 43.231.114.178
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHvJXnkDsCv0epnJTWG4RA3oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "154.70.207.190:8081"
+    type: http
+    server: 154.70.207.190
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHhAnZuiItK1sNAY6OU7WoFoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "201.150.33.188:8081"
+    type: http
+    server: 201.150.33.188
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE4NFwGCKH1waO39kwyhTddoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "171.22.254.19:8081"
+    type: http
+    server: 171.22.254.19
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyERH3YOpTm0Zs4az-yzWU1QoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "171.22.254.144:8081"
+    type: http
+    server: 171.22.254.144
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGDHjHcCXS3BYjwsAS4Nz_FoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "109.248.149.173:8081"
+    type: http
+    server: 109.248.149.173
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGpI6Z32mvcVQ5Od68tV9DxoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "201.150.33.172:8081"
+    type: http
+    server: 201.150.33.172
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFBJTdZjS0MZAAVSoPqMRq7oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "111.90.141.223:8081"
+    type: http
+    server: 111.90.141.223
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFWDDcoLetb690GYd3MzxM-oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "169.255.57.58:8081"
+    type: http
+    server: 169.255.57.58
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyF2VefK8R0hbvGf6h0GDKHjoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "51.15.16.243:8081"
+    type: http
+    server: 51.15.16.243
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHG4U7XLCfT_u_SqPX-kov6xsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "202.87.221.113:8081"
+    type: http
+    server: 202.87.221.113
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEuRsol438deBizCu4FaBd2oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "201.150.35.76:8081"
+    type: http
+    server: 201.150.35.76
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGhqMotAJk3QVVMuVKaupW_oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "5.79.121.55:8081"
+    type: http
+    server: 5.79.121.55
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGZ7GOrSOAVFTlADBBvzOFzoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "51.158.252.46:8081"
+    type: http
+    server: 51.158.252.46
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHuVybdbajsORGzm84npwxOoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "111.90.159.52:8081"
+    type: http
+    server: 111.90.159.52
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFE_mzeV-qvQXSSo4Zp4HLfoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.221.219.189:8081"
+    type: http
+    server: 185.221.219.189
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEF67OB77h3rwLfA0_7k8BxoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "131.196.35.40:8081"
+    type: http
+    server: 131.196.35.40
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHWE-vVW2Rn_FdgfUEfzDRyoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "51.15.16.66:8081"
+    type: http
+    server: 51.15.16.66
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyErBbAu9OtXUiXbCnokY2oHoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.181.61.141:8081"
+    type: http
+    server: 185.181.61.141
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEjIaNnzA1Oytp9oGnk_AwcoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "180.149.231.76:8081"
+    type: http
+    server: 180.149.231.76
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGbBHvsBDtg_tDk_OpMlRt-oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.121.94.131:8081"
+    type: http
+    server: 185.121.94.131
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEEwCkbPKqYIKxO7nbnNqQaoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.90.61.217:8081"
+    type: http
+    server: 185.90.61.217
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGxlm2UZD-gq86ZnXtwigi1oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "180.149.231.103:8081"
+    type: http
+    server: 180.149.231.103
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyETYYgqyZKdDTsmF27IU1h1oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.90.61.23:8081"
+    type: http
+    server: 185.90.61.23
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEMdI52nxiKsgG5xgOAagQzoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.121.94.132:8081"
+    type: http
+    server: 185.121.94.132
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHpiLxln4C8Ol7BaHEnjR4RoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "200.74.244.7:8081"
+    type: http
+    server: 200.74.244.7
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGAGxHeFC10W-gE4chtOv69oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "190.120.229.196:8081"
+    type: http
+    server: 190.120.229.196
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEownbOUdHSoJ5Ci8841QhwoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "217.170.205.150:8081"
+    type: http
+    server: 217.170.205.150
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHLFLLoOp1rNMqK7bmhwCKooXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "103.75.11.41:8081"
+    type: http
+    server: 103.75.11.41
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHeYAibBrf2lmj24_CFmWdCoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "180.149.231.71:8081"
+    type: http
+    server: 180.149.231.71
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH16aE-LJcrbPsJrqqkIB7DoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "180.149.231.99:8081"
+    type: http
+    server: 180.149.231.99
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE3E_8ysrwl32ivnLjeX4n7oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "103.103.0.21:8081"
+    type: http
+    server: 103.103.0.21
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyF6kGV5rh1SLWRkQQLQiKEIoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "112.199.95.186:8081"
+    type: http
+    server: 112.199.95.186
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGgSj4DC7e0SZJVa5Px1OrpoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "190.97.163.17:8081"
+    type: http
+    server: 190.97.163.17
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHyELjDcpqgL8FrTHMfZy75oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "5.253.206.122:8081"
+    type: http
+    server: 5.253.206.122
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE7VtWZmYgyz-WsI_WRfg8LoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "103.152.255.235:8081"
+    type: http
+    server: 103.152.255.235
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE2og4chiCa30Ebf6plHW3yoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "54.36.174.39:8081"
+    type: http
+    server: 54.36.174.39
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFWnFPC9UbZon0AOWCdVw95oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "199.255.116.5:8081"
+    type: http
+    server: 199.255.116.5
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHJAFD5ADMWU6voPMoF7jbvoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "138.186.143.50:8081"
+    type: http
+    server: 138.186.143.50
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEj1iNAbZ1yMEfD-ghoE6QHoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "194.99.105.90:8081"
+    type: http
+    server: 194.99.105.90
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHUP3fjZy1olzXYW1OxLgzvoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "54.36.175.24:8081"
+    type: http
+    server: 54.36.175.24
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFZYs39y5A3iYgE-0G2pEfsoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.113.140.26:8081"
+    type: http
+    server: 185.113.140.26
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGPBFLbD1JGlfeZ_jyTiT3LoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "38.165.233.30:8081"
+    type: http
+    server: 38.165.233.30
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFxFoImoB8Yh46UuqGIU1qNoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "38.158.220.26:8081"
+    type: http
+    server: 38.158.220.26
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyECxa_HwTNMtpDCUAKE_95LoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.52.62:8081"
+    type: http
+    server: 146.70.52.62
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyExUu-IICH7QIIG3rOULbfaoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.113.141.65:8081"
+    type: http
+    server: 185.113.141.65
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGR2LUjAhWF1BgmOY0_n_1qoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.113.140.45:8081"
+    type: http
+    server: 185.113.140.45
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGxN46pUWta9bZiYswB_9ouoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.231.130:8081"
+    type: http
+    server: 146.70.231.130
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEg2ZWQykB_g48OU3i3s09coXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "194.59.248.210:8081"
+    type: http
+    server: 194.59.248.210
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGjNXAKIxzgH4M-2H3eaOt1oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.52.54:8081"
+    type: http
+    server: 146.70.52.54
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFVA7Lv67g_qbNxij3NrQE2oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "38.165.233.7:8081"
+    type: http
+    server: 38.165.233.7
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFbwdiCHg8E3Pu1a_g5loPzoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.254.146:8081"
+    type: http
+    server: 146.70.254.146
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHBAkENXmsbaoypGwIOsLlgoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "95.143.193.15:8081"
+    type: http
+    server: 95.143.193.15
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEAvGxd1pHZ--sqX54gVVyioXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.167.70:8081"
+    type: http
+    server: 146.70.167.70
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHo09hHLa_Fb1oOTaXGOTYgoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.52.94:8081"
+    type: http
+    server: 146.70.52.94
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyELKwL9IJ768uLVQexF7xxKoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.145.58:8081"
+    type: http
+    server: 146.70.145.58
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEAhI59J_RUalY_OAJpsEpRoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "103.253.27.6:8081"
+    type: http
+    server: 103.253.27.6
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGbrs7XP7_oBVZnRpMXqSlxoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "116.251.216.100:8081"
+    type: http
+    server: 116.251.216.100
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH5fcPIq1zdWPAVRYuTynRPoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "15.235.145.238:8081"
+    type: http
+    server: 15.235.145.238
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEQ3XJtg2VJZq7G266o5E4CoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "195.80.150.194:8081"
+    type: http
+    server: 195.80.150.194
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGWYk3IoYVVwF4XF13j6ujloXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.122.66:8081"
+    type: http
+    server: 146.70.122.66
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE_XD2HQ-XaMcQ-FalMDltIoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "116.251.217.47:8081"
+    type: http
+    server: 116.251.217.47
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHQsUrsTYppHVUhQH0mJtUZoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "195.80.150.202:8081"
+    type: http
+    server: 195.80.150.202
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHdhuQzI1YDSUbYbYGwwoONoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "165.231.211.122:8081"
+    type: http
+    server: 165.231.211.122
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHGMm4u_cOU4RPBpaQW1uSBoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "193.37.255.2:8081"
+    type: http
+    server: 193.37.255.2
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFbAhcaWRdc1kvmZZlA5EaPoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "194.28.84.109:8081"
+    type: http
+    server: 194.28.84.109
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE67_KSCc7K7U0O_oac5Ld-oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "176.103.50.127:8081"
+    type: http
+    server: 176.103.50.127
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGhu3yovAQzmIXI5salHorZoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.189.161.137:8081"
+    type: http
+    server: 185.189.161.137
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHiM-ZRC1ymZQCbr03Pgn0BoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.245.85.126:8081"
+    type: http
+    server: 185.245.85.126
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEbWnXXRjcYcyCO5uxcAUl4oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "188.213.34.126:8081"
+    type: http
+    server: 188.213.34.126
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyF8Bb5PpmyNp_um8Kqjopi8oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "176.103.54.71:8081"
+    type: http
+    server: 176.103.54.71
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH3YCoSWJxOcehpGa6srZ1CoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "146.70.228.82:8081"
+    type: http
+    server: 146.70.228.82
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHj5CfoNxIlcltGfgqmKJ3Vxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "130.195.216.2:8081"
+    type: http
+    server: 130.195.216.2
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyESOLwfVFG7ZwvHSYYSXfJ1oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "188.213.34.178:8081"
+    type: http
+    server: 188.213.34.178
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGygzyi8PIwoHFTStPIDpecoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "103.4.29.100:8081"
+    type: http
+    server: 103.4.29.100
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEr_wOq5CAMFTOMhltngUUHoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "185.169.64.46:8081"
+    type: http
+    server: 185.169.64.46
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHvCgK1dmJofWHK9YWnqcIpoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "23.134.93.82:8081"
+    type: http
+    server: 23.134.93.82
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyG_cXZOiqSAvNCPIvN6NzRYxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "169.197.85.171:8081"
+    type: http
+    server: 169.197.85.171
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH6NisrT3h79bWCWBM0FqUVxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "169.197.86.50:8081"
+    type: http
+    server: 169.197.86.50
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyH3n2f5X69aXRy8tiwIyowTxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "169.197.142.208:8081"
+    type: http
+    server: 169.197.142.208
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEmeAGRH6_Dwiatmy1_6_Zpxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "169.197.83.34:8081"
+    type: http
+    server: 169.197.83.34
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyE4ANtcRScNnmALwmF_3_Oexsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "162.249.172.18:8081"
+    type: http
+    server: 162.249.172.18
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEJY_XdbK7Ex8tYs80SknaVxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "162.251.62.66:8081"
+    type: http
+    server: 162.251.62.66
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyELPv_KxhCDJ62v_ki9ekymxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "130.195.212.66:8081"
+    type: http
+    server: 130.195.212.66
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGZEKjFz0eS4OgwZrke_rAyxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "38.128.66.22:8081"
+    type: http
+    server: 38.128.66.22
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFMOt3osywL7kwCVQAeaBsSxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "23.154.136.106:8081"
+    type: http
+    server: 23.154.136.106
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFqZSuqkx2X93SsfE502qPYxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "169.197.85.174:8081"
+    type: http
+    server: 169.197.85.174
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHpye1HYfhQO2jdPtUqASFPxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "169.197.142.119:8081"
+    type: http
+    server: 169.197.142.119
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEd4NWcEMCTq-v1SrtFgBORxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "38.68.134.126:8081"
+    type: http
+    server: 38.68.134.126
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGSmH98OTbuYcLky7Na-cxDxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "169.197.94.106:8081"
+    type: http
+    server: 169.197.94.106
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFHJ18oc_WhMt4s9PBNbhF6xsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "169.197.85.173:8081"
+    type: http
+    server: 169.197.85.173
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEwLbKpvs8pzoLLfLG07yjCxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "179.27.200.30:8081"
+    type: http
+    server: 179.27.200.30
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyF5YAtwHJUd0oRX89O8TZLxoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "45.228.67.28:8081"
+    type: http
+    server: 45.228.67.28
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFFhODiqYhuzrCZL_W1U0mcoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "169.197.85.172:8081"
+    type: http
+    server: 169.197.85.172
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyEvFnGWxdI_OiGrwQUXOqfCxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "103.97.125.216:8081"
+    type: http
+    server: 103.97.125.216
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyGqMRW4UYSHKxtmE8YiFjZtoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "169.197.89.186:8081"
+    type: http
+    server: 169.197.89.186
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyFhEGUqCvHJpIDn2P9pCjshxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "169.197.85.170:8081"
+    type: http
+    server: 169.197.85.170
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHzizIlD3oZ83nqG4ERMSQwxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "103.9.78.107:8081"
+    type: http
+    server: 103.9.78.107
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyERfN0W5Y65W1DGqEz_vJQloXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "129.232.237.210:8081"
+    type: http
+    server: 129.232.237.210
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHGHGVBADslNan5hothyu4moXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "129.232.237.178:8081"
+    type: http
+    server: 129.232.237.178
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kZgm18_p8MNBeLgCsjMEmyHJG36Rnh8Qs13_Ae-iJ5MWoXw609MC0WdYefYZbCn32A=="
+    password: "1"
