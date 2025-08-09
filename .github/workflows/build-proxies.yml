@@ -3,7 +3,7 @@ name: Build TopChina Proxies
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 * * * *"  # 每小时的第17分钟（UTC）
+    - cron: "*/45 * * * *"  # 每45分钟左右（在每小时的0分与45分运行）
 
 permissions:
   contents: write
@@ -23,17 +23,17 @@ jobs:
       - name: Install deps
         run: pip install requests
 
-      - name: Generate proxies.yaml
+      - name: Generate proxies.yaml and sync README.md
         run: python scripts/build_proxies.py
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add proxies.yaml
+          git add proxies.yaml README.md
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "chore: update proxies.yaml"
+            git commit -m "chore: update proxies.yaml and sync README.md"
             git push
           fi
