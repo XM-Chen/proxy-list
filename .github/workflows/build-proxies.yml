@@ -23,7 +23,7 @@ jobs:
       - name: Install deps
         run: pip install requests
 
-      - name: Generate proxies.yaml and sync README.md
+      - name: Generate Clash config and sync README.md
         run: python scripts/build_proxies.py
 
       - name: Commit changes
@@ -34,6 +34,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "chore: update proxies.yaml and sync README.md"
+            git commit -m "chore: sync upstream proxy config"
             git push
           fi
